@@ -1,11 +1,10 @@
 import './App.css';
+import Footer from "./components/footer";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>SUDOKU SOLVER</h1>
-      </header>
+      <Footer/>
     </div>
   );
 }
