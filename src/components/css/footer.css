@@ -1,4 +1,5 @@
 .footer{
+    margin-top: 75vh;
     height: 120px;
     background: black;
     color: white;
@@ -28,6 +29,6 @@
     color: cornflowerblue;
 }
 
-.about{
+.footer-about{
     margin-top: 0;
 }
