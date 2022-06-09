@@ -1,10 +1,10 @@
 .footer{
-    margin-top: 75vh;
     height: 120px;
     background: black;
     color: white;
     text-align: center ;
     padding-top: 10px;
+    margin-top: 10px;
 }
 
 .footer__links{
